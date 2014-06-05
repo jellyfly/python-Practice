@@ -1,0 +1,42 @@
+print
+""
+''
+#
++
+-
+*
+/
+%
+<
+>
+<=
+>=
+variable names: _
+format print: %s, %d, %f, %.[digit]f, %r
+variable after format print: % 
+multiple variable after format print: % (variables)
+boolean: True, Faulse
+string concatention: +
+print n times: print "somewhat" * 10
+print not new line: add comma"," after the current line
+print multiple lines: """   multiple lines   """ or  ''' multiple lines  '''
+escape for special characters: \
+\t
+raw_input()
+from sys import argv
+prompt = '> '
+open(file)
+open(file, 'w')
+.read()
+.write(stuff)
+.readline()
+.close()
+.seek(digit)
+.truncate() - empty the file
+pydoc [] (in windows: python -m pydoc [])
+(from os.path import exists )exsits(file)
+def function():
+
+
+
+
