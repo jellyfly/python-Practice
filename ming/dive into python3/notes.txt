@@ -1,0 +1,3 @@
+By using sys.path.insert(0, new_path), you inserted a new directory as the first item of the sys.path list,
+and therefore at the beginning of Python’s search path.
+
