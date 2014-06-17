@@ -1,3 +1,8 @@
 By using sys.path.insert(0, new_path), you inserted a new directory as the first item of the sys.path list,
 and therefore at the beginning of Python’s search path.
 
+packages can be imported:
+math
+fractions
+
+swapping the keys and values of a dictionary: {value:key for key, value in a_dict.items()}
